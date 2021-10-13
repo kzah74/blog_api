@@ -26,3 +26,5 @@ class BlogTests(TestCase):
         self.assertEqual(body, 'Body content...')
 
     
+
+    
