@@ -1,2 +1,5 @@
 django
 djangorestframework
+gunicorn
+django-heroku
+static3

@@ -27,3 +27,5 @@ class BlogTests(TestCase):
         self.assertEqual("This test should fail", 'This test should not fail')
 
     
+
+    
