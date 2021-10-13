@@ -24,5 +24,6 @@ class BlogTests(TestCase):
         self.assertEqual(author, 'testuser1')
         self.assertEqual(title, 'Blog title')
         self.assertEqual(body, 'Body content...')
+        self.assertEqual("This test should fail", 'This test should not fail')
 
     
