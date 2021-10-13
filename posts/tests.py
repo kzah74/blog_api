@@ -27,3 +27,5 @@ class BlogTests(TestCase):
         self.assertEqual('Test is passing', 'Test is passing')
 
     
+
+    
