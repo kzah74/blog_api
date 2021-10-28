@@ -3,3 +3,8 @@ djangorestframework
 gunicorn
 django-heroku
 static3
+dj-rest-auth
+django-allauth
+pyyaml
+uritemplate
+drf-yasg
